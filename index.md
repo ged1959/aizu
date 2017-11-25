@@ -1,6 +1,28 @@
 # 会津の旅
 
-## 観光
+とりあえずの第１案です。こんな順序で旅してはどうでしょう？
+
+## １日目 => まずは、会津っぽさを味わう
+
+こんな景色と、できれば特産品を味わう、と。
+<iframe width="340" height="225" src="https://www.youtube.com/embed/mDFk1sFCADc" frameborder="0" allowfullscreen></iframe>
+
+好天に期待。
+<iframe width="340" height="225" src="https://www.youtube.com/embed/--AcUzMhKy0" frameborder="0" allowfullscreen></iframe>
+
+## ２日目 => 会津若松へ
+
+この音楽は聴きたい。ふわふわ…。それから、ご実家へ。
+<iframe width="340" height="225" src="https://www.youtube.com/embed/P-RPm3u_k80" frameborder="0" allowfullscreen></iframe>
+
+## ３日目 => 濃い、ところを堪能する。
+
+日本酒がいい、という人は確かに多い。
+<iframe width="340" height="225" src="https://www.youtube.com/embed/56qkrFRWYHE" frameborder="0" allowfullscreen></iframe>
+
+## 以下は参考
+
+### 観光
 
 会津若松なら、まずは、ここ。
 
@@ -55,6 +77,6 @@
 - 大内と会津若松は、ローカル線でも。[会津鉄道＆レトロバス猿游号で行く大内宿](http://www.aizutetsudo.jp/ticket/ouchijuku/)
 - [白虎隊の町【会津東山温泉観光協会】公式HP 福島県会津若松市](http://www.aizu-higashiyama.com/)# 会津旅行
 
-# 会津旅行
+### 会津旅行
 
 帰りにここへ寄る、という案。[【公式】スパリゾートハワイアンズ・ホームページ](http://www.hawaiians.co.jp/)
